@@ -1,1 +1,1 @@
-__author__ = 'homik'
+__author__ = 'homik, mjw, kofii'
